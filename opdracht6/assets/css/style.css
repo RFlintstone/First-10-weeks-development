@@ -1,0 +1,54 @@
+/* Main CSS file */
+
+.textcolor {
+	color: #4286f4;
+}
+
+html {
+	background: #4286f4;
+}
+
+footer {
+	margin-top: 27%;
+	background: #5f7780;
+	width: 100%
+}
+
+
+.tabel1 {
+	width: 150px;
+	height: 200px;
+	padding: 10px;
+	display: inline-block;
+}
+
+.tabel2 {
+	width: 150px;
+	height: 200px;
+	padding: 10px;
+	display: inline-block;
+}
+
+.tabel3 {
+	width: 150px;
+	height: 200px;
+	padding: 10px;
+	display: inline-block;
+}
+
+.contact {
+	width: 350px;
+	height: 200px;
+	padding: 10px;
+	display: inline-block;
+}
+
+.adres {
+	width: 350px;
+	height: 200px;
+	padding: 10px;
+	display: inline-block;
+}
+
+
+
