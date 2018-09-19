@@ -1,0 +1,59 @@
+/* Main CSS file */
+
+.textcolor {
+	color: #4286f4;
+}
+
+html {
+	background: #4286f4;
+}
+
+
+.genderchoice {
+	display: inline-block;
+	margin-top: 2%;
+	margin-left: 5%;
+}
+
+.agechoice {
+	display: inline-block;
+	margin-top: 2%;
+	margin-left: 5%;
+}
+
+.textarea {
+	display: inline-block;
+	resize: none;
+	margin-top: 2%;
+}
+
+
+.textareatitle1 {
+	 display: flex;
+	 flex-direction: column;
+ }
+
+
+.register {
+	margin-left: 35%;
+	height: 100%;
+}
+
+.texta{
+	display: flex;
+	flex-direction: column;
+}
+
+.infouser {
+	display: flex;
+	flex-direction: column;
+}
+
+.infouserlist {
+	list-style-type: none;
+	margin: 0px auto;
+}
+
+.text {
+	margin-left: 5%;
+}
